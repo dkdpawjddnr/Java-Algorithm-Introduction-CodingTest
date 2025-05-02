@@ -1,5 +1,6 @@
 package chapter06;
 
+<<<<<<< HEAD
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
@@ -45,4 +46,12 @@ public class Ch06_05 {
 		System.out.println(T.solution2(n, arr));
 		
 	}
+=======
+public class Ch06_05 {
+
+	public static void main(String[] args) {
+
+	}
+
+>>>>>>> 51b810f2385abc623b846a3a1e115a0c495ec571
 }
